@@ -71,3 +71,25 @@ Example: If you’re building a semantic search for a product catalog:
 
 #in short: 
 A VectorDB is essentially three engines working together — a storage engine for vectors + metadata, an indexing engine for fast similarity search, and a query engine for combining semantic relevance with filters. The rest of the architecture ensures it’s scalable, reliable, and easy to integrate into AI pipelines
+
+Vector Databases
+Entension : Add-Ons to existing databases
+
+1) redis
+2) cassandra
+3) mongoDB
+4) elasticsearch
+5) PgVector
+
+Purpose built vectordb
+
+1) Pinecone
+2) Chroma
+3) LanceDB
+4) Weaviate
+5) Drant
+6) Milvus
+7) Vespa
+8) Vald
+9) Zilliz
+
